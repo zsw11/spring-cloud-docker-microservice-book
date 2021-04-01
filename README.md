@@ -19,5 +19,4 @@
 
 * 周立的博客：[http://www.itmuch.com](http://www.itmuch.com)
 * Spring For All 社区：<http://www.spring4all.com>
-* 微信：![微信公众号](wx.jpg)
 
